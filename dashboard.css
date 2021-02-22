@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+}
+
+.box {
+    width: 100%;
+    background: #dde3ee;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 30px;
+}
+
+.title {
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #2e4893;
+}
